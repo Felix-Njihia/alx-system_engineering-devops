@@ -1,1 +1,2 @@
+#!/bin/bash
 chowvn --from=guillaume betty hello
